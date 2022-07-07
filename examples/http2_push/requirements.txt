@@ -1,0 +1,2 @@
+quart
+pillow>=7.1.0
